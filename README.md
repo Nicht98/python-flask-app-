@@ -1,6 +1,6 @@
 # Flask contacts
 
-[DEMO](https://flaskcontacts.herokuapp.com/)
+[](https://flaskcontacts.herokuapp.com/)
 
 ## Use
 
